@@ -1,16 +1,16 @@
 {
-    "name": "LEGENDX BOT",
+    "name": "MrunalSessionBOT",
     "description": "A bot CAN DO ANYTHING",
-    "logo": "",
+    "logo": "https://telegra.ph/file/d7235b1ee1911242aa3bd.jpg",
     "keywords": [
         "TELETHON",
-        "X ARMY",
+        "TelebotsByMrunal",
         "Telegram Bot",
         "piro bolte",
-        "LEGENDX22"
+        "Godmrunal"
     ],
     "website": "",
-    "success_url": "https://telegram.dog/LEGENDX22",
+    "success_url": "https://t.me/TelebotsByMrunal",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
